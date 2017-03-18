@@ -1,0 +1,18 @@
+{
+  "name": "nc-animations",
+  "description": "Web animations stuff",
+  "main": "index.js",
+  "authors": [
+    "NerveClasp"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/NerveClasp/nc-animations",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
